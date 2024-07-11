@@ -1,0 +1,46 @@
+[
+    {
+      "slug": "flight",
+      "route": "Lagos to Abuja",
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "phone": "08012345678",
+      "timeOfTravel": "2023-12-25",
+      "hotels": ["Hotel A", "Hotel B"],
+      "travelling": 2,
+      "destination": "Abuja",
+      "timeOfLeaving": "12:00",
+      "accommodation": "Hotel A",
+      "budget": 100000
+    },
+    {
+      "slug": "carhire",
+      "slug": "flight",
+      "route": "Lagos to Abuja",
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "phone": "08012345678",
+      "timeOfTravel": "2023-12-25",
+      "hotels": ["Hotel A", "Hotel B"],
+      "travelling": 2,
+      "destination": "Abuja",
+      "timeOfLeaving": "12:00",
+      "accommodation": "Hotel A",
+      "budget": 100000
+    },
+    {
+      "slug": "hotels",
+      "route": "Lagos to Abuja",
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "phone": "08012345678",
+      "timeOfTravel": "2023-12-25",
+      "hotels": ["Hotel A", "Hotel B"],
+      "travelling": 2,
+      "destination": "Abuja",
+      "timeOfLeaving": "12:00",
+      "accommodation": "Hotel A",
+      "budget": 100000
+    
+    }
+  ]
